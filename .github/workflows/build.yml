@@ -40,9 +40,9 @@ jobs:
         pip install beautifulsoup4
     - name: Download script
       run: |
-        wget https://raw.githubusercontent.com/skynet2982/news.toulouse.social/main/scripts/clean_url.sh
+        wget https://raw.githubusercontent.com/news-france/news-france/main/scripts/clean_url.sh
         chmod +x clean_url.sh
-        wget https://raw.githubusercontent.com/skynet2982/news.toulouse.social/main/scripts/python.py
+        wget https://raw.githubusercontent.com/news-france/news-france/main/scripts/python.py
     - name : Replace urls
       run: | 
         echo "RUN PYTHON"
