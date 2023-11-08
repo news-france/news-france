@@ -4,8 +4,28 @@
       "title": "Actualités",
       "items": [
         {
-          "title": "Toulouse",
-          "url": "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR05pYUdnU0FtWnlLQUFQAQ?hl=fr"
+          "title": "France",
+          "url": "https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=fr"
+        },
+        {
+          "title": "International",
+          "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtWnlHZ0pHVWlnQVAB?hl=fr"
+        },
+        {
+          "title": "Économie",
+          "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtWnlHZ0pHVWlnQVAB?hl=fr"
+        },
+        {
+          "title": "Sciences et technologies",
+          "url": "https://news.google.com/rss/topics/CAAqKAgKIiJDQkFTRXdvSkwyMHZNR1ptZHpWbUVnSm1jaG9DUmxJb0FBUAE?hl=fr"
+        },
+        {
+          "title": "Divertissement",
+          "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtWnlHZ0pHVWlnQVAB?hl=fr"
+        },
+        {
+          "title": "Sports",
+          "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtWnlHZ0pHVWlnQVAB?hl=fr"
         }
       ]
     }
