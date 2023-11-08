@@ -50,7 +50,7 @@ jobs:
     - name : Replace urls
       run: | 
         echo "RUN PYTHON"
-        python /home/runner/work/news.toulouse.social/news.toulouse.social/python.py index.html
+        python /home/runner/work/news-france/news-france/python.py index.html
     - name: Update files on GitHub
       uses: test-room-7/action-update-file@v1.8.0
       with:
