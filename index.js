@@ -5,7 +5,7 @@ let parser = new Parser();
 const promises = [];
 const sources = JSON.parse(fs.readFileSync('sources.json'));
 
-// Create the requried folders
+// Create the requried folders 
 fs.mkdir(`./dist`, () => {});
 
 function createFile(fileName, data) {
