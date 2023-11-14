@@ -15,7 +15,7 @@ module.exports.document = function (body) {
       <header class="bg-dark mb-4">
         <nav class="container navbar navbar-dark">
         <div class="container-fluid">
-          <h1 class="text-light h2 mb-0">Actualités Toulouse</h1>
+          <h1 class="text-light h2 mb-0">Actualités France</h1>
         </div>
         </nav>
       </header>
